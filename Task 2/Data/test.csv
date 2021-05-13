@@ -1,0 +1,886 @@
+Cinsiyet,soru1,soru2,soru3,soru4,soru5,soru6,soru7,soru8,soru9,soru10,parti
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,IYI PARTI
+Erkek,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,HDP
+Kadın,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,AKP
+Kadın,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+Kadın,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,HDP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,CHP
+Kadın,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Hayır,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Kadın,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,DIĞER
+Kadın,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Kadın,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Kadın,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Kadın,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,DIĞER
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,MHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Kadın,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,AKP
+Kadın,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Kadın,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Kadın,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+Kadın,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,MHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,MHP
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Kadın,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,MHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,MHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,DIĞER
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Kadın,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,MHP
+Kadın,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Kadın,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,IYI PARTI
+Erkek,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,HDP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Kadın,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,AKP
+Kadın,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Kadın,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,HDP
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Kadın,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,HDP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,AKP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,MHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,MHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,MHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,MHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Kadın,Hayır,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,MHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,AKP
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,HDP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,MHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,MHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,MHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,MHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,MHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+Kadın,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,HDP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,IYI PARTI
+Erkek,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Hayır,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,MHP
+Erkek,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,MHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,AKP
+Erkek,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,MHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,MHP
+Erkek,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,DIĞER
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,MHP
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,HDP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,MHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+Kadın,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,MHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,HDP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,AKP
+Erkek,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,MHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Kadın,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+Kadın,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,Evet,HDP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,MHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,MHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Kadın,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+Kadın,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,AKP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,AKP
+Kadın,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Kadın,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,MHP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+Erkek,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+Kadın,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,DIĞER
+Erkek,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,DIĞER
+Erkek,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+Erkek,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+Erkek,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+Erkek,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
